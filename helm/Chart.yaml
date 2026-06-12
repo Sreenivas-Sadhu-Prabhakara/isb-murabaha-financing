@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-murabaha-financing
+description: "BIAN Service Domain: Murabaha Financing (Fulfill pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Sale Based Financing"
+  isb/asset-type: "Murabaha Facility"
+  isb/control-record: "Murabaha Facility Fulfillment Arrangement"
